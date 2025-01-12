@@ -12,6 +12,7 @@
     display: block;
     margin: 20px auto;
     max-width: 100%;
+    background-color: coral;
   }
 #pickMe{
     text-align: center;
